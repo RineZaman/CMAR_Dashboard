@@ -35,6 +35,7 @@ dependencies:
   - jupyter-rsession-proxy
   - jupyter_contrib_nbextensions
   - jupyterlab
+  - jupyter-panel-proxy
   - matplotlib-base
   - nc-time-axis
   - netcdf4
